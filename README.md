@@ -1,1 +1,4 @@
-# droy824.github.io
+# Deepan Roy
+
+## Education
+B.E. Computer Science: BITS Pilani
