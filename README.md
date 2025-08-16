@@ -19,11 +19,12 @@ Worked on the task of detecting and classifying 10 crime types in the UCF-Crime 
 Saved $200K per annum by reducing 700K manual verifications for merchant addresses using LLMs. Conducted prompt engineering experiments with 1,000 user addresses to reduce the LLM’s false rejection rate to <2%. Also created an abstract framework to reduce time to create new LLM verification systems from∼ 2 weeks to∼ 1 day.
 
 ---
+---
 
 ## Projects
 - ### 3D Semantic Segmentation of EPFL Electron Microscopy Dataset
 Experimented with 3D segmentation task using Morphological Post-Processing, nnU-Net, and Foundation Models. Pre-trained PCT-Net using Volume Fusion on unannotated volume, achieving Dice of 99.93% on pretext task. Analysed and experimented with preprocessing, Focal Dice, schedulers, postprocessing, increasing Dice from 42% to 93%.
-<img width="1344" height="363" alt="Screenshot 2025-08-17 at 1 44 32 AM" src="https://github.com/user-attachments/assets/5fee0a27-cef8-4eb6-91cd-27c209c494fd" />
+<img width="448" height="121" alt="Screenshot 2025-08-17 at 1 44 32 AM" src="https://github.com/user-attachments/assets/5fee0a27-cef8-4eb6-91cd-27c209c494fd" />
 
 ---
 
