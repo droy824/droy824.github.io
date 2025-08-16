@@ -8,5 +8,6 @@ photography** and **crime detection**, project experience in **3D biomedical ima
 - Relevant Coursework: Generative AI, Introduction to LLMs, Natural Language Processing, Deep Learning, Linear Algebra, Probability & Statistics
 
 ## Experience
-### Research on Computational Photography using Federated Learning | Aug. 2024 – May 2025
+- ### Research on Computational Photography using Federated Learning | Aug. 2024 – May 2025
+- ### Research on Crime Detection in Surveillance Videos | Nov. 2023 – May 2024
 
