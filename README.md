@@ -1,5 +1,5 @@
 ## Education
-- B.E. Computer Science | Birla Institute of Technology and Science
+- B.E., Computer Science Birla Institute of Technology and Science
 - Relevant Coursework: Generative AI, Introduction to LLMs, Natural Language Processing, Deep Learning, Linear Algebra, Probability & Statistics
 
 ## Experience
