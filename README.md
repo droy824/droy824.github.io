@@ -14,4 +14,4 @@ Research under [Prof. Pratik Narang](https://www.bits-pilani.ac.in/pilani/pratik
 
 ### Research on Crime Detection in Surveillance Videos (Nov. 2023 – May 2024)
 Worked on the task of detecting and classifying 10 crime types in the UCF-Crime dataset using YOLOv3 and DeepSORT. We preprocessed 1000+ videos, then designed, trained, and tuned an LSTM model, achieving an AUC score of 62.5%, approaching state-of-the-art performance. 
-
+<img width="931" height="990" alt="image" src="https://github.com/user-attachments/assets/305f85c1-54b6-4be6-995f-be58355cbc75" />
