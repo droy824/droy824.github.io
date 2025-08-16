@@ -19,7 +19,6 @@ Worked on the task of detecting and classifying 10 crime types in the UCF-Crime 
 Saved $200K per annum by reducing 700K manual verifications for merchant addresses using LLMs. Conducted prompt engineering experiments with 1,000 user addresses to reduce the LLM’s false rejection rate to <2%. Also created an abstract framework to reduce time to create new LLM verification systems from∼ 2 weeks to∼ 1 day.
 
 ---
----
 
 ## Projects
 - ### 3D Semantic Segmentation of EPFL Electron Microscopy Dataset
