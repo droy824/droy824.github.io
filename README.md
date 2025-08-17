@@ -6,6 +6,8 @@
 - B.E., Computer Science: Birla Institute of Technology and Science, Pilani
 - Relevant Coursework: Generative AI, Introduction to LLMs, Natural Language Processing, Deep Learning, Linear Algebra, Probability & Statistics
 
+---
+
 ## Experience
 - ### Research on Computational Photography using Federated Learning (Aug. 2024 – May 2025)
 Research under [Prof. Pratik Narang](https://www.bits-pilani.ac.in/pilani/pratik-narang/) related to augmenting computational photography tasks, specifically denoising, with federated learning techniques to solve the problem of limited noisy-clean image pair data. During this project, I worked on training and evaluating established approaches like DnCNN, DBSN, and Blind2Unblind on custom noise models in federated setups. 
@@ -39,4 +41,4 @@ Reproduced PixelCNN, conditional PixelCNN, PixelVAE architectures; extended Pixe
 
 - ### [From-Scratch Neural Learning in NumPy via Adam Optimisation](https://github.com/droy824/neural-networks-with-numpy)
 Built forward/backward passes with analytical gradients and gradient descent to study neural learning without frameworks. Constructed Adam optimiser from scratch, yielding 100% test accuracy; visualised model behaviour via decision boundaries.
-<img width="450" height="264" alt="image" src="https://github.com/user-attachments/assets/e3ee10d9-b7c1-46df-a4b2-920abba78a42" />
+<img width="495" height="200" alt="image" src="https://github.com/user-attachments/assets/e3ee10d9-b7c1-46df-a4b2-920abba78a42" />
