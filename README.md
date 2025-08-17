@@ -26,17 +26,17 @@ Saved $200K per annum by reducing 700K manual verifications for merchant address
 
 ## Projects
 - ### 3D Semantic Segmentation of EPFL Electron Microscopy Dataset
-Experimented with 3D segmentation task using Morphological Post-Processing, nnU-Net, and Foundation Models. Pre-trained PCT-Net using Volume Fusion on unannotated volume, achieving Dice of 99.93% on pretext task. Analysed and experimented with preprocessing, Focal Dice, schedulers, postprocessing, increasing Dice from 42% to 93%.
+Solved 3D segmentation task on the [EPFL Electron Microscopy Dataset](https://www.epfl.ch/labs/cvlab/data/data-em/) using [Morphological Post-Processing](https://ieeexplore.ieee.org/document/9761519), [nnU-Net](https://arxiv.org/abs/1809.10486), and [Foundation Models](https://arxiv.org/abs/2306.16925). After producing a strong baseline Dice score of 94.05% with nnU-Net, I experimented with MIS-FM. Here, I pre-trained PCT-Net using Volume Fusion on the unannotated volume, achieving Dice of 99.93% on the pretext task. To tune downstream training, I analysed and experimented with preprocessing, Focal Dice, schedulers, postprocessing, increasing the Dice score from 42% to 93%.
 <img width="448" height="121" alt="Screenshot 2025-08-17 at 1 44 32 AM" src="https://github.com/user-attachments/assets/5fee0a27-cef8-4eb6-91cd-27c209c494fd" />
 
 
 
 - ### [Implementation of Conditional PixelVAE, PixelCNN for Handwritten Digit Generation](https://github.com/droy824/pixelcnn-in-pytorch)
-Reproduced PixelCNN, conditional PixelCNN, PixelVAE architectures; extended PixelVAE by creating a conditional variant. Achieved strong quantitative performance on binarised MNIST dataset with average NLL of 0.169 nats per pixel.
+Implemented the [PixelCNN](https://arxiv.org/abs/1601.06759), [conditional PixelCNN](https://arxiv.org/abs/1606.05328), and [PixelVAE](https://arxiv.org/abs/1611.05013) architectures. I also extended the PixelVAE architecture by creating a conditional PixelVAE. This network achieved strong quantitative performance on binarised MNIST dataset with an average NLL of 0.169 nats per pixel.
 <img width="395" height="395" alt="image" src="https://github.com/user-attachments/assets/827aee43-19bf-4d1e-a481-2087a175c094" />
 
 
 
 - ### [From-Scratch Neural Learning in NumPy via Adam Optimisation](https://github.com/droy824/neural-networks-with-numpy)
-Built forward/backward passes with analytical gradients and gradient descent to study neural learning without frameworks. Constructed Adam optimiser from scratch, yielding 100% test accuracy; visualised model behaviour via decision boundaries.
+Built forward/backward passes with analytical gradients and gradient descent to study neural learning without frameworks. During this study, I also re-constructed the Adam optimiser from scratch, yielding 100% test accuracy. Finally, I visualised the model's predictions via decision boundaries.
 <img width="495" height="225" alt="image" src="https://github.com/user-attachments/assets/e3ee10d9-b7c1-46df-a4b2-920abba78a42" />
