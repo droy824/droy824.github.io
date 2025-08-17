@@ -1,7 +1,5 @@
 # Portfolio
 
----
-
 ## Education
 - B.E., Computer Science: Birla Institute of Technology and Science, Pilani
 - Relevant Coursework: Generative AI, Introduction to LLMs, Natural Language Processing, Deep Learning, Linear Algebra, Probability & Statistics
@@ -41,4 +39,4 @@ Reproduced PixelCNN, conditional PixelCNN, PixelVAE architectures; extended Pixe
 
 - ### [From-Scratch Neural Learning in NumPy via Adam Optimisation](https://github.com/droy824/neural-networks-with-numpy)
 Built forward/backward passes with analytical gradients and gradient descent to study neural learning without frameworks. Constructed Adam optimiser from scratch, yielding 100% test accuracy; visualised model behaviour via decision boundaries.
-<img width="495" height="200" alt="image" src="https://github.com/user-attachments/assets/e3ee10d9-b7c1-46df-a4b2-920abba78a42" />
+<img width="495" height="225" alt="image" src="https://github.com/user-attachments/assets/e3ee10d9-b7c1-46df-a4b2-920abba78a42" />
