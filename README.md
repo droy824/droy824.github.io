@@ -7,22 +7,24 @@
 ---
 
 ## Experience
-- ### Research on Computational Photography using Federated Learning (Aug. 2024 – May 2025)
+- ### 3D Tubular Instance Segmentation in Biomedical Imaging (Sept. 2025 – Present)
+Working with [Dr. Donglai Wei](https://donglaiw.github.io/) on global reasoning on 3D biomedical images, specifically on thin, elongated structures which require global pairwise point affinity learning to reason over ambiguous structures. 
+
+- ### mmWave Radar to Speech Enhancement (Oct. 2025 – Present)
+Working with [Prof. Sandeep Joshi](https://www.bits-pilani.ac.in/pilani/sandeep-joshi/) to enhance speech from extremely noisy, band-limited mmWave FMCW radar signals using diffusion- and GAN-based methods, like CDiffuSE and CleanMel+Vocos, respectively. 
+
+- ### Software Engineering Intern @ Stripe (May 2025 - Jul. 2025)
+Saved $200K per annum by reducing 700K manual verifications for merchant addresses using LLMs. Conducted prompt engineering experiments with 1,000 user addresses to reduce the LLM’s false rejection rate to <2%. Also created an abstract framework to reduce time to create new LLM verification systems from ∼2 weeks to ∼1 day.
+
+- ### Computational Photography using Federated Learning (Aug. 2024 – May 2025)
 Research under [Prof. Pratik Narang](https://www.bits-pilani.ac.in/pilani/pratik-narang/) related to augmenting computational photography tasks, specifically denoising, with federated learning techniques to solve the problem of limited noisy-clean image pair data. Worked on training and evaluating established approaches like DnCNN, DBSN, and Blind2Unblind on custom noise models in federated setups. 
 
   <img width="500" height="167" alt="denoising_result" src="https://github.com/user-attachments/assets/c254e7a2-bb27-49ad-a514-7afb48932fc5" />
 
-
-
-- ### [Research on Crime Detection in Surveillance Videos](https://github.com/droy824/anomaly_detection/) (Nov. 2023 – May 2024)
+- ### [Crime Detection in Surveillance Videos](https://github.com/droy824/anomaly_detection/) (Nov. 2023 – May 2024)
 Worked on the task of detecting and classifying 10 crime types in the UCF-Crime dataset using YOLOv3 and DeepSORT. Preprocessed 1000+ videos, then designed, trained, and tuned an LSTM model, achieving an AUC score of 62.5%, approaching state-of-the-art performance. 
 
   <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/305f85c1-54b6-4be6-995f-be58355cbc75" />
-
-
-
-- ### Software Engineering Intern @ Stripe (May 2025 - Jul. 2025)
-Saved $200K per annum by reducing 700K manual verifications for merchant addresses using LLMs. Conducted prompt engineering experiments with 1,000 user addresses to reduce the LLM’s false rejection rate to <2%. Also created an abstract framework to reduce time to create new LLM verification systems from ∼2 weeks to ∼1 day.
 
 ---
 
